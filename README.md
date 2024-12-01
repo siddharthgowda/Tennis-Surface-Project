@@ -8,7 +8,7 @@ It's well known that different tennis court surfaces have unique properties, and
 All other data files are created after cleaning.
 
 ## The Paper:
-The final paper is written in a pdf format with the file name `tennis_surface_report.pdf` and raw file is in `tennis_surface_report.Rmd`
+The final paper is written in a pdf format with the file name `tennis_surface_report.pdf` and the raw file is in `tennis_surface_report.Rmd`
 
 
 
